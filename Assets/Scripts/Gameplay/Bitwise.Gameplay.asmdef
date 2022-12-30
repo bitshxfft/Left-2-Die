@@ -1,0 +1,17 @@
+{
+    "name": "Bitwise.Gameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dbba7e08bafac684ea36e5e0626f233d",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
